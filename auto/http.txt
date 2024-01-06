@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt
 https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt
 https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
 https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/http/data.txt
-https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt
 https://openproxylist.xyz/http.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=http
 https://openproxy.space/list/http
@@ -21,7 +20,6 @@ https://www.proxy-list.download/api/v1/get?type=http
 https://www.proxy-list.download/api/v1/get?type=https
 https://www.proxyscan.io/download?type=http
 https://rootjazz.com/proxies/proxies.txt
-https://sheesh.rip/http.txt
 https://spys.me/proxy.txt
 https://proxysearcher.sourceforge.net/Proxy%20List.php?type=http
 https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc&protocols=http
