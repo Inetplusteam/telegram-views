@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/https.txt
+https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/http.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt
 https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt
 https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt
