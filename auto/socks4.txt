@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks4.txt
 https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks4.txt
 https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks4.txt
 https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt
