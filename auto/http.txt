@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/zevtyardt/proxy-list/main/http.txt
 https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/https.txt
 https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/http.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt
